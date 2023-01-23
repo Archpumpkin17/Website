@@ -1,1 +1,17 @@
-html
+<html>
+    <head>
+        <script type="text/javascript" src="website.js"></script>
+    </head>
+<title>My Webpage</title>
+
+<body>
+<p>Welcome to my portfolio webpage</p>
+
+
+
+</body>
+
+
+
+
+</html>
