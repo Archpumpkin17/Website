@@ -6,6 +6,7 @@
 
 <body>
 <p>Welcome to my portfolio webpage</p>
+<input type="button" value="loom" onclick="change()">
 
 
 
