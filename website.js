@@ -1,3 +1,3 @@
 function change(){
-    body.backgroundColor = "#EAEAEA"
+    document.body.style.background = "#EAEAEA"
 }
