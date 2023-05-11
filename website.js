@@ -1,7 +1,5 @@
 function change(){
-    let color = document.body.style.background;
-    if (color = #FFFFFF) {
-    document.body.style.background = "#063970" }
-    else {
-        document.body.style.background = "#FFFFFF"
+    var randomcolor = Math.floor(Math.random() * 16777215).toString(16);
+    var color = '#' + randomcolor
+    document.body.style.background = color }
 }
